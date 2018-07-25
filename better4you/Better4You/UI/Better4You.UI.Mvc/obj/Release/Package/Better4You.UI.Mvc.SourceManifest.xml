@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

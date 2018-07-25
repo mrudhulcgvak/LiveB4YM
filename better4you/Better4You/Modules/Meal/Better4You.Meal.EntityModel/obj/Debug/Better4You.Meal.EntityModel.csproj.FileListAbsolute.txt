@@ -1,0 +1,113 @@
+D:\TFS\Better4You\Main\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.dll
+D:\TFS\Better4You\Main\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.pdb
+D:\TFS\Better4You\Main\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.dll
+D:\TFS\Better4You\Main\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.pdb
+D:\TFS\Better4You\Main\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.csprojResolveAssemblyReference.cache
+D:\TFS\Better4You\Main\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.dll
+D:\TFS\Better4You\Main\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.pdb
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.dll
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.pdb
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.dll
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.pdb
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.csprojResolveAssemblyReference.cache
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.dll
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.pdb
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.dll
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.pdb
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.dll
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.dll
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.dll
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.pdb
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.pdb
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.pdb
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.csprojResolveAssemblyReference.cache
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.dll
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.pdb
+D:\Nagendra\liveliveB4YM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.dll
+D:\Nagendra\liveliveB4YM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.pdb
+D:\Nagendra\liveliveB4YM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.dll
+D:\Nagendra\liveliveB4YM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.dll
+D:\Nagendra\liveliveB4YM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.dll
+D:\Nagendra\liveliveB4YM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.pdb
+D:\Nagendra\liveliveB4YM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.pdb
+D:\Nagendra\liveliveB4YM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.pdb
+D:\Nagendra\liveliveB4YM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.csprojResolveAssemblyReference.cache
+D:\Nagendra\liveliveB4YM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.dll
+D:\Nagendra\liveliveB4YM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.csprojResolveAssemblyReference.cache
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.csprojResolveAssemblyReference.cache
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.csprojResolveAssemblyReference.cache
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.pdb
+D:\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.dll
+D:\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.pdb
+D:\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.dll
+D:\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.dll
+D:\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.dll
+D:\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.pdb
+D:\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.pdb
+D:\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.pdb
+D:\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.csprojResolveAssemblyReference.cache
+D:\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.dll
+D:\Live1B4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.pdb
+D:\29Better4youmeals\New folder\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.dll
+D:\29Better4youmeals\New folder\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.pdb
+D:\29Better4youmeals\New folder\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.dll
+D:\29Better4youmeals\New folder\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.dll
+D:\29Better4youmeals\New folder\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.dll
+D:\29Better4youmeals\New folder\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.pdb
+D:\29Better4youmeals\New folder\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.pdb
+D:\29Better4youmeals\New folder\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.pdb
+D:\29Better4youmeals\New folder\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.csprojResolveAssemblyReference.cache
+D:\29Better4youmeals\New folder\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.dll
+D:\29Better4youmeals\New folder\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.pdb
+D:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.dll
+D:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.pdb
+D:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.dll
+D:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.dll
+D:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.dll
+D:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.pdb
+D:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.pdb
+D:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.pdb
+D:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.csprojResolveAssemblyReference.cache
+D:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.dll
+D:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.pdb
+F:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.dll
+F:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.EntityModel.pdb
+F:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.dll
+F:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.dll
+F:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.dll
+F:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.ViewModel.pdb
+F:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Core.pdb
+F:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\bin\Debug\Better4You.Meal.Config.pdb
+F:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.csprojResolveAssemblyReference.cache
+F:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.dll
+F:\1\LiveB4YM\better4you\Better4You\Modules\Meal\Better4You.Meal.EntityModel\obj\Debug\Better4You.Meal.EntityModel.pdb

@@ -1,0 +1,45 @@
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.csprojResolveAssemblyReference.cache
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\BFYM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\BFYM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\BFYM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.csprojResolveAssemblyReference.cache
+D:\BFYM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\BFYM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.csprojResolveAssemblyReference.cache
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\Nagendra\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.csprojResolveAssemblyReference.cache
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.csprojResolveAssemblyReference.cache
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.csprojResolveAssemblyReference.cache
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.csprojResolveAssemblyReference.cache
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\Live1B4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\Live1B4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.pdb
+D:\Live1B4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.csprojResolveAssemblyReference.cache
+D:\Live1B4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.dll
+D:\Live1B4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.pdb
+F:\1\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.dll
+F:\1\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\bin\Release\Better4You.UserManagment.Business.Implementation.pdb
+F:\1\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.csprojResolveAssemblyReference.cache
+F:\1\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.dll
+F:\1\LiveB4YM\better4you\Better4You\Modules\UserManagment\Better4You.UserManagment.Business.Implementation\obj\Release\Better4You.UserManagment.Business.Implementation.pdb

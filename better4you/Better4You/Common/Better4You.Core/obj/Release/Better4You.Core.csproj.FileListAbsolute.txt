@@ -1,0 +1,25 @@
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Common\Better4You.Core\bin\Release\Better4You.Core.dll
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Common\Better4You.Core\bin\Release\Better4You.Core.pdb
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.csprojResolveAssemblyReference.cache
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.dll
+D:\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.pdb
+D:\BFYM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Common\Better4You.Core\bin\Release\Better4You.Core.dll
+D:\BFYM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Common\Better4You.Core\bin\Release\Better4You.Core.pdb
+D:\BFYM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.csprojResolveAssemblyReference.cache
+D:\BFYM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.dll
+D:\BFYM\DemoB4YM\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\Common\Better4You.Core\bin\Release\Better4You.Core.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\Common\Better4You.Core\bin\Release\Better4You.Core.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.csprojResolveAssemblyReference.cache
+D:\Nagendra\LiveB4YM\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Common\Better4You.Core\bin\Release\Better4You.Core.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Common\Better4You.Core\bin\Release\Better4You.Core.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.csprojResolveAssemblyReference.cache
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.pdb
+F:\1\LiveB4YM\better4you\Better4You\Common\Better4You.Core\bin\Release\Better4You.Core.dll
+F:\1\LiveB4YM\better4you\Better4You\Common\Better4You.Core\bin\Release\Better4You.Core.pdb
+F:\1\LiveB4YM\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.csprojResolveAssemblyReference.cache
+F:\1\LiveB4YM\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.dll
+F:\1\LiveB4YM\better4you\Better4You\Common\Better4You.Core\obj\Release\Better4You.Core.pdb

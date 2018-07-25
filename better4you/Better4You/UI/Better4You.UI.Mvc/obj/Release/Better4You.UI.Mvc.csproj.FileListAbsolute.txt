@@ -1,0 +1,1061 @@
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll.config
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Antlr3.Runtime.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\DocumentFormat.OpenXml.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\dotless.Core.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ICSharpCode.SharpZipLib.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Ionic.Zip.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.CSharp.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.ComponentModel.DataAnnotations.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Configuration.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.DataSetExtensions.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Drawing.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.EnterpriseServices.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.WebRequest.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Abstractions.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.ApplicationServices.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.DynamicData.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Entity.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Extensions.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Routing.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Services.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.Linq.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WebGrease.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WindowsBase.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.pdb
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.csprojResolveAssemblyReference.cache
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.dll
+D:\Nagendra\DATABASE (Shared by israel.galindo@anwsol.com)\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll.config
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Antlr3.Runtime.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\DocumentFormat.OpenXml.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\dotless.Core.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ICSharpCode.SharpZipLib.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Ionic.Zip.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.CSharp.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.ComponentModel.DataAnnotations.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Configuration.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.DataSetExtensions.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Drawing.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.EnterpriseServices.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.WebRequest.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Abstractions.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.ApplicationServices.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.DynamicData.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Entity.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Extensions.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Routing.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Services.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.Linq.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WebGrease.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WindowsBase.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.csprojResolveAssemblyReference.cache
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.pdb
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.dll
+D:\Nagendra\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll.config
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Antlr3.Runtime.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\DocumentFormat.OpenXml.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\dotless.Core.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ICSharpCode.SharpZipLib.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Ionic.Zip.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.CSharp.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.ComponentModel.DataAnnotations.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Configuration.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.DataSetExtensions.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Drawing.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.EnterpriseServices.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.WebRequest.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Abstractions.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.ApplicationServices.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.DynamicData.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Entity.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Extensions.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Routing.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Services.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.Linq.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WebGrease.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WindowsBase.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.pdb
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.csprojResolveAssemblyReference.cache
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.dll
+D:\Nagendra\NewDemo\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll.config
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Antlr3.Runtime.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\DocumentFormat.OpenXml.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\dotless.Core.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ICSharpCode.SharpZipLib.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Ionic.Zip.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.CSharp.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.ComponentModel.DataAnnotations.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Configuration.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.DataSetExtensions.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Drawing.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.EnterpriseServices.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.WebRequest.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Abstractions.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.ApplicationServices.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.DynamicData.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Entity.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Extensions.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Routing.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Services.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.Linq.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WebGrease.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WindowsBase.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.pdb
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.csprojResolveAssemblyReference.cache
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.dll
+D:\NewLiveDemo\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll.config
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Antlr3.Runtime.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\DocumentFormat.OpenXml.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\dotless.Core.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ICSharpCode.SharpZipLib.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Ionic.Zip.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.CSharp.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.ComponentModel.DataAnnotations.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Configuration.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.DataSetExtensions.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Drawing.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.EnterpriseServices.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.WebRequest.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Abstractions.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.ApplicationServices.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.DynamicData.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Entity.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Extensions.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Routing.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Services.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.Linq.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WebGrease.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WindowsBase.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.pdb
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.csprojResolveAssemblyReference.cache
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.dll
+D:\Live1B4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll.config
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Antlr3.Runtime.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\DocumentFormat.OpenXml.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\dotless.Core.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ICSharpCode.SharpZipLib.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Ionic.Zip.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.CSharp.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.ComponentModel.DataAnnotations.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Configuration.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.DataSetExtensions.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Drawing.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.EnterpriseServices.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.WebRequest.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Abstractions.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.ApplicationServices.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.DynamicData.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Entity.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Extensions.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Routing.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Services.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.Linq.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WebGrease.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WindowsBase.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.pdb
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.csprojResolveAssemblyReference.cache
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.dll
+D:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll.config
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UI.Mvc.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Antlr3.Runtime.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\DocumentFormat.OpenXml.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\dotless.Core.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ICSharpCode.SharpZipLib.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Ionic.Zip.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.CSharp.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.ComponentModel.DataAnnotations.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Configuration.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.DataSetExtensions.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Data.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Drawing.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.EnterpriseServices.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.WebRequest.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Abstractions.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.ApplicationServices.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.DynamicData.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Entity.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Extensions.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Routing.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Services.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Xml.Linq.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WebGrease.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WindowsBase.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.ViewModel.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\AutoMapper.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Business.Implementation.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Core.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.EntityModel.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Business.Implementation.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Config.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.EntityModel.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.NhCodeMapping.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.Service.Implementation.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Meal.ViewModel.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.NhCodeMapping.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.Service.Implementation.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagement.Config.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Business.Implementation.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.EntityModel.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.NhCodeMapping.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Implementation.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.Service.Messages.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Better4You.UserManagment.ViewModel.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Core.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Facilities.FactorySupport.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Castle.Windsor.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\ClosedXML.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Iesi.Collections.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Newtonsoft.Json.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NHibernate.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\NVelocity.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Optimization.Less.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Net.Http.Formatting.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Helpers.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Http.WebHost.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Mvc.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.Razor.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Deployment.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.Web.WebPages.Razor.xml
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Business.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Core.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Logging.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Model.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.General.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Repository.Nh.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Security.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Service.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.ViewModel.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Tar.Globalization.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.csprojResolveAssemblyReference.cache
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\obj\Release\Better4You.UI.Mvc.pdb
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\Swashbuckle.Core.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\WebActivatorEx.dll
+F:\1\LiveB4YM\better4you\Better4You\UI\Better4You.UI.Mvc\bin\System.IdentityModel.Tokens.Jwt.xml
